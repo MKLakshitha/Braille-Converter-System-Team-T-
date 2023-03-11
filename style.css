@@ -1,0 +1,149 @@
+*
+{
+    padding:0;
+    margin: 0;
+    color: #fff ;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: #000000;
+}
+
+.navbar {
+    font-family: futura, sans-serif;
+    margin-bottom: 0;
+    background-color: #00000000;
+    border: 0;
+    font-size: 12px !important;
+    letter-spacing: 2px;
+  }
+  .navbar li a, .navbar .navbar-brand { 
+    color: #d5d5d5 !important;
+    padding: ;
+    padding-top: 20px;
+  }
+  .navbar-nav li a:hover {
+    color: #088280 !important;
+    transition: 0.3s;
+  }
+  .navbar-nav li.active a {
+    color: #fff!important;
+    background-color: #29292c !important;
+  }
+  .navbar .navbar-brand{
+    color: #fff !important;
+    font-size: 26px;
+    padding-left: 40px;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+  }
+  .open .dropdown-toggle {
+    color: #fff;
+    background-color: #555 !important;
+  }
+  .dropdown-menu li a {
+    color: #000 !important;
+  }
+  .dropdown-menu li a:hover {
+    background-color: #81B622 !important;
+  }
+
+  .homepage-quote{
+    
+    width: 700px;
+    padding-top: 10%;
+    font-family: futura;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 900%;
+    line-height: 116.81%;
+    color: #FFFFFF;
+  }
+
+ 
+  .sub-quote{
+    height: 95px;
+    font-family: futura;
+    font-weight: lighter;
+    font-size: 18px;
+    line-height: 32px;
+    color: #FFFFFF;
+  }
+
+  .v3{
+    padding-top:5.5% !important;
+    height: 100vh;
+  }
+  .img-1{
+    width:350px;
+    position: absolute;
+  }
+
+  .butn-link{
+    font-family: 'Frank Ruhl Libre';
+    color: #000;
+    font-size: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 9px white;
+    padding: 5px 30px 5px 30px;
+  }
+
+  .butn-link:hover{
+    color: #fff;
+    background-color: #088280;
+    box-shadow: 0 0 0px white;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  a:hover{
+    text-decoration: none;
+  }
+
+  .img-close{
+    height: 100vh;
+    float: right;
+  }
+
+  #tool-info{
+    padding: 0;
+    margin: 0;
+  }
+  
+  .v76_29 {
+    width: 80%;
+    margin-top: 20%;
+    margin-left: 20%;
+    padding: 6% 5% 6% 10%;
+    background: rgba(217,217,217,0);
+    opacity: 1;
+    border: 6px solid rgb(255, 255, 255);
+    border-radius: 18px;
+    box-shadow: 0px 0px 12px rgb(255, 255, 255);
+    overflow:hidden;
+
+    font-family: 'Hiragino Sans';
+    font-style: normal;
+    font-size: 22px;
+    line-height: 42px;
+    color: #FFFFFF;
+
+  }
+
+  #about{
+    height: 80vh;
+    padding-top: 4%;
+    padding-left: 5%;
+  }
+
+  .footer{
+    padding:0 !important;
+    margin: 0 !important;
+    
+  }
+ .footer img{
+    width:100%;
+ }
