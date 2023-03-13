@@ -113,17 +113,32 @@ body{
     color: #000;
     font-size: 20px;
     background-color: #fff;
-    box-shadow: 0 0 9px white;
     padding: 5px 30px 5px 30px;
   }
 
   .butn-link:hover{
     color: #fff;
     background-color: #088280;
-    box-shadow: 0 0 0px white;
+    cursor: pointer;
+    transition: 0.3s;
+
+  }
+  .butn-link2{
+    font-family: Figtree, -apple-system, ”system-ui”, “avenir next”, avenir, ”segoe ui”, ”helvetica neue”, helvetica, Cantarell, Ubuntu, robot, noto, arial, sans-serif;
+    font-size: 20px;
+    padding: 5px 30px 5px 30px;
+    color: #fff;
+    background-color: #088280;
+    margin-left: 5px;
+  }
+
+  .butn-link2:hover{
+    color: #000;
+    background-color: #fff;
     cursor: pointer;
     transition: 0.3s;
   }
+
   a:hover{
     text-decoration: none;
   }
@@ -140,9 +155,8 @@ body{
   
   .v76_29 {
     width: 80%;
-    margin-top: 20%;
-    margin-left: auto;
-    margin-right: auto;
+    
+    margin: 20% auto 10% auto;
     padding: 6% 5% 6% 5%;
     background: rgba(217,217,217,0);
     opacity: 1;
