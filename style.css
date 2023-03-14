@@ -25,6 +25,14 @@ body{
     
     padding-top: 20px;
   }
+
+  @media(max-width:767px ){
+    .navbar li a { 
+      color: #fff;
+      background-color: #2b2b2b76;
+    }
+  
+  }
   .navbar-nav li a:hover {
     color: #088280 !important;
     transition: 0.3s;
@@ -71,18 +79,52 @@ body{
 
   
 
-  @media(max-width:800px ){
+  @media(max-width:767px ){
     .homepage-quote{
-        margin-top: 10%;
-        font-size: 10vh;
+        margin-top: 0;
+        padding-top: 0;
+        text-align: center;
+        font-size: 9vh;
         width: 100%;
+        line-height: 150%;
     }
     .col-sm-6 .img-1{
-        width:20% ;
+        display: none;
+        width:1% ;
+        opacity: calc(1);
       }
     .navbar-brand{
       float: left;
-    }  
+    }
+    .v3{
+      display: grid;
+      height: max-content !important;
+      justify-content: center;
+      align-content: center;
+      background-image: url('mask.png');
+      background-size:40%;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+    .v2{
+      display: none;
+    }
+
+    .v4{
+      padding-top: 20%;
+      padding-bottom: 5%;
+    }
+
+    .sub-quote{
+      text-align: center !important;
+      justify-content: center;
+    }
+
+  }
+  @media(max-width:1025px){
+    .img-1{
+      opacity: calc(0.9);
+    }
   }
  
  
@@ -93,8 +135,6 @@ body{
     font-size: 18px;
     line-height: 32px;
     color: #FFFFFF;
-    text-align: justify;
-    text-justify: inter-word;
   }
 
   .v3{
@@ -111,7 +151,7 @@ body{
   .butn-link{
     font-family: Figtree, -apple-system, ”system-ui”, “avenir next”, avenir, ”segoe ui”, ”helvetica neue”, helvetica, Cantarell, Ubuntu, robot, noto, arial, sans-serif;
     color: #000;
-    font-size: 20px;
+    font-size: 110%;
     background-color: #fff;
     padding: 5px 30px 5px 30px;
   }
@@ -125,8 +165,8 @@ body{
   }
   .butn-link2{
     font-family: Figtree, -apple-system, ”system-ui”, “avenir next”, avenir, ”segoe ui”, ”helvetica neue”, helvetica, Cantarell, Ubuntu, robot, noto, arial, sans-serif;
-    font-size: 20px;
-    padding: 5px 30px 5px 30px;
+    font-size: 110%;
+    padding: 5px 27px 5px 27px;
     color: #fff;
     background-color: #088280;
     margin-left: 5px;
@@ -147,7 +187,22 @@ body{
     height: 100vh;
     float: right;
   }
-
+@media(max-width:768px){
+  .img-close{
+    float:none;
+    width: 80vh;
+    height: auto;
+    margin: auto;
+    display: block;
+  }
+}
+@media(max-width:580px){
+  .img-close{
+    width: 40vh;
+    height: auto;
+  }
+ 
+}
   #tool-info{
     padding: 0;
     margin: 0;
@@ -173,9 +228,16 @@ body{
     text-align: justify;
     text-justify: inter-word;
     
-
   }
 
+
+
+@media(max-width:768px){
+  
+  .v76_29{
+    font-size: 18px;
+  } 
+}
   #about{
     height: 80vh;
     padding-top: 4%;
