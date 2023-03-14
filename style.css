@@ -193,7 +193,10 @@ body{
     width: 80vh;
     height: auto;
     margin: auto;
-    display: block;
+    display: block;  
+  }
+  .about{
+    display: none !important;
   }
 }
 @media(max-width:580px){
