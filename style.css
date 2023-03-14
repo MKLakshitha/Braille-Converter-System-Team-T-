@@ -195,9 +195,7 @@ body{
     margin: auto;
     display: block;  
   }
-  .about{
-    display: none !important;
-  }
+  
 }
 @media(max-width:580px){
   .img-close{
@@ -239,6 +237,7 @@ body{
   
   .v76_29{
     font-size: 18px;
+    display: none;
   } 
 }
   #about{
