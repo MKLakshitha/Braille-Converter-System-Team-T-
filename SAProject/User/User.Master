@@ -36,7 +36,7 @@
             <ul class="nav navbar-nav navbar-right">
               <li class="active"><a href="#" >HOME</a></li>
               <li><a href="#about">ABOUT</a></li>
-              <li><a href="#">TOOL</a></li>
+              <li><a href="Tool.aspx">TOOL</a></li>
               <li><a href="#">CATALOG</a></li>
             </ul>
           </div>

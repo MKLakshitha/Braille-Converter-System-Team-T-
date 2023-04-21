@@ -1,0 +1,65 @@
+﻿navbar.css
+.navbar {
+    font-family: futura, sans-serif;
+    margin-bottom: 0;
+    background-color: #00000000;
+    border: 0;
+    font-size: 12px !important;
+    letter-spacing: 2px;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #d5d5d5 !important;
+    padding-top: 20px;
+}
+
+@media(max-width:767px ) {
+    .navbar li a {
+        color: #fff;
+        background-color: #2b2b2b76;
+    }
+
+    .navbar-brand {
+        float: left;
+    }
+}
+
+.navbar-nav li a:hover {
+    color: #088280 !important;
+    transition: 0.3s;
+}
+
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #29292c !important;
+}
+
+.navbar .navbar-brand {
+    color: #fff !important;
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+.open .dropdown-toggle {
+    color: #fff;
+    background-color: #555 !important;
+}
+
+.dropdown-menu li a {
+    color: #000 !important;
+}
+
+    .dropdown-menu li a:hover {
+        background-color: #81B622 !important;
+    }
+
+.logo {
+    padding-top: 8px;
+    margin: 0;
+    float: left;
+}

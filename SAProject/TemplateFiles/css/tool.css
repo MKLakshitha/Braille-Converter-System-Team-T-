@@ -1,0 +1,110 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #e2e2e2;
+    padding: 7vh 2vh 2vh 2vh;
+}
+
+@font-face {
+    font-family: 'Braille1';
+    src: url('BRAILLE1.ttf');
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #000000 !important;
+}
+
+.row {
+    height: 90vh;
+    padding: 2vh;
+    overflow: scroll;
+}
+
+.col-sm-4, .col-sm-8 {
+    height: 100%;
+    font-family: futura, sans-serif;
+}
+
+.col-sm-4 {
+    background-color: #d9d9d9;
+}
+
+.col-sm-8 {
+    background-color: #f1f1f1;
+}
+
+input {
+    border: none;
+    border-radius: 4px;
+    width: 100%;
+    padding: 1%;
+    box-shadow: 0 0 15px 4px rgba(0,0,0,0.06);
+    margin: 4px;
+}
+
+select {
+    border: none;
+    width: 100%;
+    padding: 1%;
+    box-shadow: 0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius: 4px;
+    margin: 4px;
+}
+
+table {
+    width: 95% !important;
+    line-height: 20px !important;
+}
+
+textarea {
+    border: none;
+    border-radius: 4px;
+    margin: 4px;
+    width: 100%;
+    padding: 1%;
+    box-shadow: 0 0 15px 4px rgba(0,0,0,0.06);
+    height: 120px;
+}
+
+.select-shape {
+    height: 30%;
+    overflow: scroll;
+    padding: 5px 5px 5px 18px !important;
+    border-radius: 10px;
+    background-color: #e2e2e2;
+    box-shadow: 0 0 15px 4px rgba(0,0,0,0.06);
+    margin-bottom: 20px;
+}
+
+input[type=radio] {
+    width: auto !important;
+    padding: none;
+    box-shadow: none;
+    margin: 4px;
+}
+
+#generate-btn {
+    padding: 7px 30px;
+    background-color: #666666;
+    box-shadow: -4px 4px 0px 0px #b0b0b0;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    float: inline-end;
+}
+
+    #generate-btn:hover {
+        cursor: pointer;
+    }
+
+    #generate-btn:active {
+        box-shadow: -4px 2px #b0b0b0;
+        transform: translateY(2px);
+    }

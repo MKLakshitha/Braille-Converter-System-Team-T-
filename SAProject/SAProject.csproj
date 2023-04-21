@@ -68,13 +68,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="TemplateFiles\css\navbar.css" />
     <Content Include="TemplateFiles\css\style.css" />
+    <Content Include="TemplateFiles\css\tool.css" />
     <Content Include="TemplateFiles\images\close-eyes.jpg" />
     <Content Include="TemplateFiles\images\flower-face.jpg" />
     <Content Include="TemplateFiles\images\footer.png" />
     <Content Include="TemplateFiles\images\logo.png" />
     <Content Include="TemplateFiles\images\mask.png" />
+    <Content Include="TemplateFiles\js\jarallax.js" />
     <Content Include="User\Default.aspx" />
+    <Content Include="User\Tool.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -89,6 +93,14 @@
     <Compile Include="User\Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="User\Program.cs" />
+    <Compile Include="User\Tool.aspx.cs">
+      <DependentUpon>Tool.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User\Tool.aspx.designer.cs">
+      <DependentUpon>Tool.aspx</DependentUpon>
+    </Compile>
     <Compile Include="User\User.Master.cs">
       <DependentUpon>User.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -98,6 +110,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="TemplateFiles\css\BRAILLE1.ttf" />
     <None Include="packages.config" />
     <Content Include="User\User.Master" />
     <None Include="Web.Debug.config">
