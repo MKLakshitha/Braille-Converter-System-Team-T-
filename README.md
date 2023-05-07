@@ -10,13 +10,7 @@
     <li><a href="#about">About The Project</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#ui">User Interfaces</a></li>
-    <li><a href="#files">File Hierarchy</a></li>
-    <li><a href="#deps">Dependencies</a></li>
-    <li><a href="#built">Built With</a></li>
-    <li><a href="#ide">IDEs Used</a></li>
-    <li><a href="#comp">Compatible With</a></li>
-    <li><a href="#test">Testing</a></li>
-    <li><a href="#cont">Contributors</a></li>
+
  </ol>
 
 <br/>
