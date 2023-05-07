@@ -1,0 +1,93 @@
+*
+{
+    padding:0;
+    margin: 0;
+    color: #fff ;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: #000000;
+    background-image: url('../images/bg6.jpg');
+    background-size: cover;
+}
+
+
+.catalogpage-quote{
+    padding-top: 5%;
+    font-family: futura;
+    font-style: normal;
+    font-weight: 500;
+
+    font-size: 15vh;
+    color: #FFFFFF;
+    margin-left: 0 !important;
+    text-shadow: 0px 0 15px #fff;
+}
+
+.container-catlog{
+    text-align: right;
+    width: 448px;
+    height: 71px;
+
+    font-family: 'Futura';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 116.81px;
+    color: #FFFFFF;
+
+    
+
+}
+
+.alp-img{
+    padding-left: 180px;
+    display: block;
+  width: 1200px;
+  height: 420px;
+}
+
+
+
+@media (max-width: 767px) {
+    .catalogpage-quote {
+      width: 80%;
+      font-size: 8vh;
+    }
+  
+    .container-catlog {
+      font-size: 32px;
+      line-height: 50px;
+    }
+  
+    .alp-img {
+        width: 100%;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-bottom: 20px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .catalogpage-quote {
+      width: 90%;
+      font-size: 6vh;
+      line-height: 100%;
+    }
+  
+    .container-catlog {
+      width: 90%;
+      font-size: 24px;
+      line-height: 40px;
+    }
+  
+    .alp-img {
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+  }

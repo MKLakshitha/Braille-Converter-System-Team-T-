@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="shaper">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="type" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="n" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="shaperResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="shaperResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="rectangle">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="type" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="n" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="l" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="rectangleResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rectangleResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="triangle">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="type" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="n" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="l" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="k" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="triangleResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="triangleResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="shaperSoapIn">
+    <wsdl:part name="parameters" element="tns:shaper" />
+  </wsdl:message>
+  <wsdl:message name="shaperSoapOut">
+    <wsdl:part name="parameters" element="tns:shaperResponse" />
+  </wsdl:message>
+  <wsdl:message name="rectangleSoapIn">
+    <wsdl:part name="parameters" element="tns:rectangle" />
+  </wsdl:message>
+  <wsdl:message name="rectangleSoapOut">
+    <wsdl:part name="parameters" element="tns:rectangleResponse" />
+  </wsdl:message>
+  <wsdl:message name="triangleSoapIn">
+    <wsdl:part name="parameters" element="tns:triangle" />
+  </wsdl:message>
+  <wsdl:message name="triangleSoapOut">
+    <wsdl:part name="parameters" element="tns:triangleResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ShapingWebServiceSoap">
+    <wsdl:operation name="shaper">
+      <wsdl:input message="tns:shaperSoapIn" />
+      <wsdl:output message="tns:shaperSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="rectangle">
+      <wsdl:input message="tns:rectangleSoapIn" />
+      <wsdl:output message="tns:rectangleSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="triangle">
+      <wsdl:input message="tns:triangleSoapIn" />
+      <wsdl:output message="tns:triangleSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ShapingWebServiceSoap" type="tns:ShapingWebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="shaper">
+      <soap:operation soapAction="http://tempuri.org/shaper" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="rectangle">
+      <soap:operation soapAction="http://tempuri.org/rectangle" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="triangle">
+      <soap:operation soapAction="http://tempuri.org/triangle" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ShapingWebServiceSoap12" type="tns:ShapingWebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="shaper">
+      <soap12:operation soapAction="http://tempuri.org/shaper" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="rectangle">
+      <soap12:operation soapAction="http://tempuri.org/rectangle" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="triangle">
+      <soap12:operation soapAction="http://tempuri.org/triangle" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ShapingWebService">
+    <wsdl:port name="ShapingWebServiceSoap" binding="tns:ShapingWebServiceSoap">
+      <soap:address location="https://localhost:44360/ShapingWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ShapingWebServiceSoap12" binding="tns:ShapingWebServiceSoap12">
+      <soap12:address location="https://localhost:44360/ShapingWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

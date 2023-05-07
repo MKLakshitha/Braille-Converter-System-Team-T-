@@ -1,0 +1,221 @@
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Vision-X.dll.config
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Vision-X.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Vision-X.pdb
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/csc.exe
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/csc.exe.config
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/csc.rsp
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/csi.exe
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/csi.exe.config
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/csi.rsp
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.AppContext.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Console.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.IO.Compression.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Net.Http.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.ValueTuple.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/vbc.exe
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/vbc.exe.config
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/vbc.rsp
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/VBCSCompiler.exe
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Antlr3.Runtime.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/AspNet.ScriptManager.jQuery.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Microsoft.AspNet.FriendlyUrls.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Microsoft.ScriptManager.MSAjax.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Microsoft.ScriptManager.WebForms.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Newtonsoft.Json.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/System.Web.Optimization.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/WebGrease.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/System.Web.Optimization.xml
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Newtonsoft.Json.xml
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Antlr3.Runtime.pdb
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Microsoft.AspNet.FriendlyUrls.xml
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/obj/Debug/Vision-X.csproj.AssemblyReference.cache
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/obj/Debug/Vision-X.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/obj/Debug/Vision-X.csproj.CopyComplete
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/obj/Debug/Vision-X.dll
+C:/Users/Lenovo Slim3/source/repos/Vision-X/Vision-X/obj/Debug/Vision-X.pdb
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Vision-X.dll.config
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Vision-X.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Vision-X.pdb
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/csc.exe
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/csc.exe.config
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/csc.rsp
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/csi.exe
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/csi.exe.config
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/csi.rsp
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.AppContext.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Console.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.IO.Compression.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Net.Http.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.ValueTuple.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/vbc.exe
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/vbc.exe.config
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/vbc.rsp
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/VBCSCompiler.exe
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Antlr3.Runtime.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/AspNet.ScriptManager.jQuery.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Microsoft.AspNet.FriendlyUrls.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Microsoft.ScriptManager.MSAjax.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Microsoft.ScriptManager.WebForms.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Newtonsoft.Json.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/System.Web.Optimization.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/WebGrease.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/System.Web.Optimization.xml
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Newtonsoft.Json.xml
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Antlr3.Runtime.pdb
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Microsoft.AspNet.FriendlyUrls.xml
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/obj/Debug/Vision-X.csproj.AssemblyReference.cache
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/obj/Debug/Vision-X.csproj.CoreCompileInputs.cache
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/obj/Debug/Vision-X.csproj.CopyComplete
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/obj/Debug/Vision-X.dll
+C:/Users/Ushani/Desktop/Vision-X/Vision-X/obj/Debug/Vision-X.pdb
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Vision-X.dll.config
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Vision-X.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Vision-X.pdb
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/csc.exe
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/csc.exe.config
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/csc.rsp
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/csi.exe
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/csi.exe.config
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/csi.rsp
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.AppContext.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Console.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.IO.Compression.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Net.Http.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.ValueTuple.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/vbc.exe
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/vbc.exe.config
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/vbc.rsp
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/VBCSCompiler.exe
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Antlr3.Runtime.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/AspNet.ScriptManager.jQuery.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Microsoft.AspNet.FriendlyUrls.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Microsoft.ScriptManager.MSAjax.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Microsoft.ScriptManager.WebForms.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Newtonsoft.Json.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/System.Web.Optimization.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/WebGrease.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/System.Web.Optimization.xml
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Newtonsoft.Json.xml
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Antlr3.Runtime.pdb
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Microsoft.AspNet.FriendlyUrls.xml
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/obj/Debug/Vision-X.csproj.AssemblyReference.cache
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/obj/Debug/Vision-X.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/obj/Debug/Vision-X.csproj.CopyComplete
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/obj/Debug/Vision-X.dll
+C:/Users/Lenovo Slim3/Desktop/Praveen/Vision-X/Vision-X/obj/Debug/Vision-X.pdb
+/Users/kavindulakshitha/Desktop/Vision-X/obj/Debug/Vision-X.dll
+/Users/kavindulakshitha/Desktop/Vision-X/obj/Debug/Vision-X.pdb

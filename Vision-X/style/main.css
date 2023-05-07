@@ -1,0 +1,65 @@
+body {
+    overscroll-behavior: contain;
+    overflow: hidden;
+    background: #252525;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#tools {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 1em;
+    height: 100vh;
+    background: #474747;
+    color: #bbb;
+    font-size: 1.5em;
+}
+
+#top-menu {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 1.5em;
+    background: #474747;
+    color: #bbb;
+}
+
+#top-menu button {
+    background: none;
+    border: 0;
+    box-shadow: none;
+    border-radius: 0px;
+    color: #fff;
+    font-size: 1em;
+}
+
+.dark-overlay {
+    background-color: rgba(0,0,0,0.5);
+    position:fixed;
+    left:0;
+    top: 0;
+    width:100%;
+    height:100%;
+}
+
+.msgbox {
+    position: fixed; /* could be absolute */
+    top: 0; left: 0; bottom: 0; right: 0;
+    margin: auto;
+    width: 1000px;
+    height: 1000px;
+    border-radius: 10px;
+    background: #fff;
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
